@@ -1,0 +1,205 @@
+canonical_identifier: bkk:krp/KR6j0058/v1
+canonical_location: https://kanripo.org/bkk/KR6j0058/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說瑜伽大教王經
+  identifiers:
+    alt_id:
+    - T18n0890
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0890.xml
+    old_id: T18n0890
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0058_000.yaml, hash: 'sha256:2a01c21f260cc65970610761f56595c80df00b55ab7a472faeeffa3f134e651f'}
+  - {seq: 1, filename: KR6j0058_001.yaml, hash: 'sha256:07a71ff55d9cfebeabf1f54931f74cd7b395da0a914d442b36347e4815941536'}
+  - {seq: 2, filename: KR6j0058_002.yaml, hash: 'sha256:b65315c08cba6c5682738f17c7ba20cdeb0f8a54eec860b138ea7b4b59b12a89'}
+  - {seq: 3, filename: KR6j0058_003.yaml, hash: 'sha256:6e261e778668782ebd5907ea722733e663ce3b18fc8449f4f46ee608e0ada9d2'}
+  - {seq: 4, filename: KR6j0058_004.yaml, hash: 'sha256:7d6ac5608cc1951b10791a7d6e2eee6d2127d8b716b9eeb4bdb2f767e5499ce7'}
+  - {seq: 5, filename: KR6j0058_005.yaml, hash: 'sha256:05a92be6b0414985e4b3af5739866d9a43740ff55ed55374d7acb0e1efc3c33c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0058_001.markers.yaml, hash: 'sha256:42b053d9616453098680b6a820d8ac2612c26d3f223c2c936735bbd9c2dcd865'}
+  - {seq: 2, role: markers, filename: assets/KR6j0058_002.markers.yaml, hash: 'sha256:e3add99462f02b521382f4a0b05b2209f1460d53a1824fb7f9d3ef6346196dc6'}
+  - {seq: 3, role: markers, filename: assets/KR6j0058_003.markers.yaml, hash: 'sha256:ec097955adaf8b7c3f0f97c6f9a7b7fe0e3ff5013637b0534b5c181c118da265'}
+  - {seq: 4, role: markers, filename: assets/KR6j0058_004.markers.yaml, hash: 'sha256:6881dd54251aabed42f17743a9aec8ea734c8e2fb1b7dee7807760c2fa1c969e'}
+  - {seq: 5, role: markers, filename: assets/KR6j0058_005.markers.yaml, hash: 'sha256:294578d0a6c2105dba58cab220f6545ca0997da3e141e53624daf133b310afbc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5775
+  label: 佛說瑜伽大教王經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-2
+    span:
+    - body
+    - 1023
+    - 1023
+  label: 2 曼拏羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-3
+    span:
+    - body
+    - 4467
+    - 4467
+  label: 3 真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0058_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6208
+  label: 佛說瑜伽大教王經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0058_T_002-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 4 三摩地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0058_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8362
+  label: 佛說瑜伽大教王經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0058_T_003-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 5 真言大智變化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4480
+  label: 佛說瑜伽大教王經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 6 印相大供養儀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-mulu-2
+    span:
+    - body
+    - 3242
+    - 3242
+  label: 7 觀想菩提心大智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6512
+  label: 佛說瑜伽大教王經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 8 相應方便成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-2
+    span:
+    - body
+    - 2993
+    - 2993
+  label: 9 護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-3
+    span:
+    - body
+    - 5114
+    - 5114
+  label: 10 囑累品
+  type: mulu
+  level: 1
+hash: sha256:f87be2b33cc6a059716904c5ca0efe92e48421c71ab476ac9c252e3ae7690da7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

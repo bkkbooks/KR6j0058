@@ -1,0 +1,186 @@
+canonical_identifier: bkk:krp/KR6j0058/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0058/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說瑜伽大教王經
+  identifiers:
+    krp: KR6j0058
+    cbeta: T18n0890
+    cbeta_old_id: T18n0890
+    authorityid: CA0003819
+    json_key: T0890
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0890.xml
+    old_id: T18n0890
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0058_000-T.yaml, hash: 'sha256:2a01c21f260cc65970610761f56595c80df00b55ab7a472faeeffa3f134e651f'}
+  - {seq: 1, filename: KR6j0058_001-T.yaml, hash: 'sha256:184a8beb4935b8c3203a3ec78d395aed8291cea4f8ab076b0b8b162b5d00d1ef'}
+  - {seq: 2, filename: KR6j0058_002-T.yaml, hash: 'sha256:c6773a1a66b76596d37d94d4d322c92e84a89be38f14130f1d46304ddf6f062d'}
+  - {seq: 3, filename: KR6j0058_003-T.yaml, hash: 'sha256:d2828476fe855206728b77b60ed7b1ced99e6340acfd65b543b7dcc3ef430c68'}
+  - {seq: 4, filename: KR6j0058_004-T.yaml, hash: 'sha256:b02df25ba4205c659d50977cf348b0d8097cbae42798cd06fd99c8a73725c885'}
+  - {seq: 5, filename: KR6j0058_005-T.yaml, hash: 'sha256:4972f5ce7574b9aea3022c83dc763262f5e2280588eb2d17b0e6e2451dd2da62'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0058_000-T.markers.yaml, hash: 'sha256:a63adb038fee832dca81b63804a4f1512c9a6e611246fe56f9c75b117181f38c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0058_001-T.markers.yaml, hash: 'sha256:ab61977e3ee383b411bf9779aa3ed46afe601e346ff00f8c22019e1eb3f96080'}
+  - {seq: 2, role: markers, filename: assets/KR6j0058_002-T.markers.yaml, hash: 'sha256:eec83d12303802586f2544a4fe1350f9577a19e78daa8072104a262d18362486'}
+  - {seq: 3, role: markers, filename: assets/KR6j0058_003-T.markers.yaml, hash: 'sha256:8a3fe50d2d6d04db8c409d058df880227bcef93e46aa5f19e16edac9f2765980'}
+  - {seq: 4, role: markers, filename: assets/KR6j0058_004-T.markers.yaml, hash: 'sha256:38b890e5e21e6ea7cde9e97470abad712d71f40588857f089b2cd34f0212d3cb'}
+  - {seq: 5, role: markers, filename: assets/KR6j0058_005-T.markers.yaml, hash: 'sha256:4c7fe51bd5f7054e3fbf77e792d52b00ef7cce3392c60e14199204d3215526ef'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5775
+  label: 佛說瑜伽大教王經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-2
+    span:
+    - body
+    - 1023
+    - 1023
+  label: 2 曼拏羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0058_T_001-mulu-3
+    span:
+    - body
+    - 4467
+    - 4467
+  label: 3 真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0058_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6208
+  label: 佛說瑜伽大教王經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0058_T_002-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 4 三摩地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0058_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8362
+  label: 佛說瑜伽大教王經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0058_T_003-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 5 真言大智變化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4480
+  label: 佛說瑜伽大教王經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 6 印相大供養儀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0058_T_004-mulu-2
+    span:
+    - body
+    - 3242
+    - 3242
+  label: 7 觀想菩提心大智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6512
+  label: 佛說瑜伽大教王經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 8 相應方便成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-2
+    span:
+    - body
+    - 2993
+    - 2993
+  label: 9 護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0058_T_005-mulu-3
+    span:
+    - body
+    - 5114
+    - 5114
+  label: 10 囑累品
+  type: mulu
+  level: 1
+hash: sha256:40295a8601a1c4285762a9016a19c7e9a4f864eccc79f1e7b029e0bfbf588ebe

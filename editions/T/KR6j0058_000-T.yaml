@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說瑜伽大教王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0890.xml
+    old_id: T18n0890
+hash: sha256:2a01c21f260cc65970610761f56595c80df00b55ab7a472faeeffa3f134e651f
